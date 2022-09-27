@@ -1,5 +1,5 @@
 import Block from "./Block.js";
-
+//
 class Sprite extends Block {
 
     constructor(x, y, width, height, color, dx, dy) {
